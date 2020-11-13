@@ -1,10 +1,10 @@
 # Site Ada 👩🏻‍💻 
 ---
-<div align="center">
+
 ## Acesso Rápido:
 https://siteada--gabiqrm.repl.co/
-</div>
 ---
+
 <p align="center">
    <img src="img/logo.png" alt="SiteAda"/>
 </p>
