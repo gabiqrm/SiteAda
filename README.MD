@@ -30,15 +30,20 @@ Site criado durante o curso Eu Progr{amo} disponibilizado pela Progra{m}aria ins
 ---
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução:
 ```
-1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/SiteAda`
-2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd SiteAda`;
-3. Na pasta raiz, executar o arquivo: `index.html`
+1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: 
+```bash
+git clone https://github.com/gabiqrm/SiteAda.git
 ```
+2. Acessar a pasta principal do projeto via prompt de comando: 
+bash```
+cd SiteAda
+```
+3. Na pasta raiz, executar o arquivo: `index.html`
 
 ---
 ## 🔗 Contribuições:
 ```
-- Faça o fork do projeto (https://github.com/SiteAda)
+- Faça o fork do projeto (https://github.com/gabiqrm/SiteAda.git)
 - Crie uma branch para sua modificação (git checkout -b feature/[nome])
 - Faça o commit (git commit -am 'Add files [nome]')
 - Push (git push origin feature/[nome])
